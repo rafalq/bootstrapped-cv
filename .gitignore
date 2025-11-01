@@ -1,0 +1,7 @@
+biome.json
+node_modules/
+package.json
+pnpm-lock.yaml
+.prettierrc
+settings.json
+.vscode/
